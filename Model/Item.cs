@@ -3,7 +3,7 @@ using System.Collections;
 
 namespace LinkedList.Model
 {
-    ///ячейка сиска.
+
     public class Item<T> 
     {
 
